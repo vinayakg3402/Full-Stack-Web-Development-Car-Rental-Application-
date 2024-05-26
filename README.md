@@ -1,4 +1,3 @@
-# Full-Stack-Web-Development-Car-Rental-Application-
 # Car rental website 
 
 This is a car rental project made with Django | Chart.js | Jquery | Bootstrap 4 and stripe.js payments.
